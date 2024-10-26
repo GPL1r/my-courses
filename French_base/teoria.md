@@ -49,3 +49,6 @@
 > - avec: aussi, seul, meme, au contraire
 
 >## Le pluriel des noms
+>1) S,X,Z invariables
+>2) jnjn
+

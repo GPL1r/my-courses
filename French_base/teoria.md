@@ -1,23 +1,23 @@
 ># CAP 1
-> ## Article Défini
+> ### Article Défini
 > masculin: le / l'
 > feminin: la / l'
 > pluriel: les
 
->## Article Indefini
+>### Article Indefini
 > masculin: un
 > feminin: une
 > pluriel: des
 
->## Articles Contractes
+>### Articles Contractes
 > du, des, au, aux
 
->## Adjectifs Demonstratifs
+>### Adjectifs Demonstratifs
 > ce / cet
 > cette
 > ces
 
->## Pronoms Dimonstratifs:
+>### Pronoms Dimonstratifs:
 > MS: Celui, Celui-ci, Celui-la (colui, questo, quello)
 > FS: Celle, celle-ci, celle-la
 > MP: Ceux, ceux-ci, ceux-la
@@ -25,13 +25,19 @@
 > NS: ceci, cela
 
 ># CAP 2
->## Le verb ETRE
+>### Le verb ETRE
 > Indicatif Present
+
 >Je suis
+
 >tu es
+
 >il/elle/on est
+
 >nous sommes
+
 >vous etes
+
 >ils/elles sont
 
 >## Pronoms personnels sujets

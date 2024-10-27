@@ -1,8 +1,19 @@
->## 1- programs: all script of algorithm used
-> - 
+## 1
 
->## 2- 3d_prints: the tables with the design of the disk and columns and other 3d printed objects
+## 2
+1. Nous ne sommes pas des garcons africains: nous sommes des etudiants americains
+2. Ce table est celle de Marie
+3. Ceci, est-ce une cravate? No, celle-ci est une bas
+4. Ces hommes ne son pas des professeurs mais des ouvriers
+5. Ces pneus bleus sont ceux de cette voiture-la
+6. Ces cloux ne sont pas suffisants
+7. Les prix des bijoux ne sont pas les memes que ceux de les corals
+8. Les prix des journaux ne sont pas invariables
+9. Ceci, est-ce une brebis? No, c'est un cheval
+10. Les livers ne son pas sur la table, ils sont sur la chaise
+11. Sont-ces travaux interessants? Oui, ils sont interessants
+12. Etes-vous francais? Lui aussi est francais.
 
->## 3- data_collected: data about the each experiment session
+## 3
 
->## 4- IP_ADDRESSES is the list of IP addresses of each component of the TOH communication system
+## 4
